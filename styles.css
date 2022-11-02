@@ -15,7 +15,7 @@ body {
     width: 200 px;
     padding: 10px;
     background: lightgray;
-    border:2px, solid, lightblue;
+    border:2px, solid, red;
     border: 2px, solid, black;
 }
 .assignmetn img :hover{
@@ -23,12 +23,12 @@ body {
 }
 
 h1 {
-    color: greenyellow;
+    color: red;
     text-align: center;
 }
 a {
     text-decoration: none;
-    color: lightblue;
+    color: red;
 }
 a:hover{
     color:black;
