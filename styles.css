@@ -4,7 +4,7 @@ body {
 }
 .assignment
 {
-    display:flex;
+    display:block;
     margin: 10px;
     padding: 10px;
     background: lightgray;
