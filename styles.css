@@ -23,9 +23,8 @@ body {
     padding: 10px;
     background: lightgray;
     border:2px, solid, red;
-    border: 2px, solid, black;
-    dispaly: block;
-    margin: auto;
+    display: block;
+    margin:auto;
 }
 .assignment img :hover{
     color: black;
