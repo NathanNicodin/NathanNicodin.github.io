@@ -2,11 +2,19 @@ body {
     background: lightblue;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+
 .assignment
 {
+    display: flex;
+    flex: wrap;
+}
+.assignment
+{
+    width: 22%;
     display:block;
     margin: 10px;
-    padding: 10px;
+    padding: 20px 10px;
     background: lightgray;
     border-radius: 15px;
 }
@@ -17,6 +25,8 @@ body {
     background: lightgray;
     border:2px, solid, red;
     border: 2px, solid, black;
+    dispaly: block;
+    margin: auto;
 }
 .assignmetn img :hover{
     color: black;
@@ -24,6 +34,9 @@ body {
 
 h1 {
     color: red;
+    text-align: center;
+}
+h2 {
     text-align: center;
 }
 a {
