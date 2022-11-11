@@ -7,7 +7,7 @@ body {
 .assignment
 {
     display: flex;
-    flex: wrap;
+    flex-wrap: wrap;
 }
 .assignment
 {
