@@ -6,8 +6,8 @@ body {
 
 .assignments
 {
-    display: flex;
-    flex-wrap: wrap;
+    display : flex;
+    flex-wrap : wrap;
 }
 .assignment
 {
@@ -21,7 +21,6 @@ body {
 .assignment img {
     width: 200 px;
     padding: 10px;
-    display: flex;
     background: lightgray;
     border:2px, solid, red;
     display: block;
